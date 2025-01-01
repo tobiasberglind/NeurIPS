@@ -4,4 +4,8 @@
 /*.xml
 /*.iml
 /*.html
-/__pycache__
+/*.idea
+*/__pycache__/*
+agent.cpython*
+episode_*
+*/lux/*
